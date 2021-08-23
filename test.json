@@ -1,0 +1,18 @@
+{
+  "AdsManager" : {
+    "AdmobUnits" : {
+      "test-ad" : {
+        "AppOpen_ID" : "ca-app-pub-3940256099942544/3419835294",
+        "App_ID" : "ca-app-pub-3940256099942544~3347511713",
+        "Banner_ID" : "ca-app-pub-3940256099942544/6300978111",
+        "Interstitial_ID" : "ca-app-pub-3940256099942544/1033173712",
+        "Publisher_ID" : "pub-3940256099942544"
+      }
+    },
+    "FanUnits" : {
+      "test-ad" : {
+        "FB_Interstitial_ID" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      }
+    }
+  }
+}
