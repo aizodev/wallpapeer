@@ -1,2 +1,2 @@
-# calendarjson
-get data for calendar projects
+# wallpaper app
+get data for wallpaper projects
