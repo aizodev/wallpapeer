@@ -24,7 +24,9 @@
   "LatestWallpapers" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
   "RandomWallpapers" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
   "TrendingWallpapers" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg" ],
+  
   "Ads" : {
+    "admob_pub" : "pub-5240393107248548",
     "admob_app_id" : "ca-app-pub-5240393107248548~5544168548",
     "admob_banner" : "ca-app-pub-5240393107248548/2918005207",
     "admob_inter" : "ca-app-pub-5240393107248548/5296471129",
