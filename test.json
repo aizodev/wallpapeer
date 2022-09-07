@@ -1,7 +1,7 @@
 {
   "Categories" : [
     {"animalphoto" : {
-      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
+      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg","https://ibb.co/b64Nq5f"],
       "logo" : "https://i.ibb.co/TYJZ1MF/test-img.jpg",
       "name" : "Animal Wallpapers"
     }},
