@@ -1,6 +1,6 @@
 {
   "Categories" : [
-    {"animalphoto" : {
+    {"BrokenScreen" : {
       "image" : [ null, "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg","https://i.ibb.co/nBxLKf4/cruchscreen0004.jpg","https://i.ibb.co/qW6qLCQ/cruchscreen0005.jpg",
                         "https://i.ibb.co/jz7pP6Z/cruchscreen0006.jpg","https://i.ibb.co/X4n7fK0/cruchscreen0007.jpg","https://i.ibb.co/PGZgtjw/cruchscreen0008.jpg",
                        "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
@@ -10,7 +10,7 @@
       "logo" : "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg",
       "name" : "Animal Wallpapers"
     }},
-    {"bikephoto" : {
+    {"PrankLockScreen" : {
       "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg","https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
                        "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg",
                        "https://i.ibb.co/v3VP3rm/cruchscreen0015.jpg","https://i.ibb.co/qRvZpZM/cruchscreen0001.jpg","https://i.ibb.co/jV1f8K0/cruchscreen0002.jpg",
@@ -20,7 +20,7 @@
       "logo" : "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg",
       "name" : "Bike Wallpapers"
     }},
-    {"carsphoto" : {
+    {"CruchScreen" : {
       "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg","https://i.ibb.co/qRvZpZM/cruchscreen0001.jpg","https://i.ibb.co/jV1f8K0/cruchscreen0002.jpg",
                         "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg","https://i.ibb.co/nBxLKf4/cruchscreen0004.jpg","https://i.ibb.co/qW6qLCQ/cruchscreen0005.jpg",
                         "https://i.ibb.co/jz7pP6Z/cruchscreen0006.jpg","https://i.ibb.co/X4n7fK0/cruchscreen0007.jpg","https://i.ibb.co/PGZgtjw/cruchscreen0008.jpg",
@@ -28,7 +28,7 @@
       "logo" : "https://i.ibb.co/tzzwff7/cruchscreen0019.jpg",
       "name" : "Bike Wallpapers"
     }},
-    {"naturephoto" : {
+    {"BrokenGlass" : {
       "image" : [ null, "https://i.ibb.co/YLNy4hM/cruchscreen0036.jpg","https://i.ibb.co/cwXmphC/cruchscreen0037.jpg","https://i.ibb.co/cK5BqNH/cruchscreen0038.jpg",
                         "https://i.ibb.co/515cqdj/cruchscreen0039.jpg", "https://i.ibb.co/Dbcrjyt/cruchscreen0024.jpg","https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
                        "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg",
