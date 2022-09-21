@@ -1,0 +1,67 @@
+{
+  "Categories" : [
+    {"BrokenScreen" : {
+      "image" : [ null, "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg","https://i.ibb.co/nBxLKf4/cruchscreen0004.jpg","https://i.ibb.co/qW6qLCQ/cruchscreen0005.jpg",
+                        "https://i.ibb.co/jz7pP6Z/cruchscreen0006.jpg","https://i.ibb.co/X4n7fK0/cruchscreen0007.jpg","https://i.ibb.co/PGZgtjw/cruchscreen0008.jpg",
+                       "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
+                       "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg",
+                       "https://i.ibb.co/v3VP3rm/cruchscreen0015.jpg","https://i.ibb.co/Fqr4wsj/cruchscreen0016.jpg","https://i.ibb.co/ns5xk3M/cruchscreen0017.jpg",
+                       "https://i.ibb.co/4PYbjFn/cruchscreen0018.jpg","https://i.ibb.co/tzzwff7/cruchscreen0019.jpg"],
+      "logo" : "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg",
+      "name" : "Animal Wallpapers"
+    }},
+    {"PrankLockScreen" : {
+      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg","https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
+                       "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg",
+                       "https://i.ibb.co/v3VP3rm/cruchscreen0015.jpg","https://i.ibb.co/qRvZpZM/cruchscreen0001.jpg","https://i.ibb.co/jV1f8K0/cruchscreen0002.jpg",
+                        "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg","https://i.ibb.co/nBxLKf4/cruchscreen0004.jpg","https://i.ibb.co/qW6qLCQ/cruchscreen0005.jpg",
+                        "https://i.ibb.co/jz7pP6Z/cruchscreen0006.jpg","https://i.ibb.co/X4n7fK0/cruchscreen0007.jpg","https://i.ibb.co/PGZgtjw/cruchscreen0008.jpg",
+                       "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg"],
+      "logo" : "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg",
+      "name" : "Bike Wallpapers"
+    }},
+    {"CruchScreen" : {
+      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg","https://i.ibb.co/qRvZpZM/cruchscreen0001.jpg","https://i.ibb.co/jV1f8K0/cruchscreen0002.jpg",
+                        "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg","https://i.ibb.co/nBxLKf4/cruchscreen0004.jpg","https://i.ibb.co/qW6qLCQ/cruchscreen0005.jpg",
+                        "https://i.ibb.co/jz7pP6Z/cruchscreen0006.jpg","https://i.ibb.co/X4n7fK0/cruchscreen0007.jpg","https://i.ibb.co/PGZgtjw/cruchscreen0008.jpg",
+                       "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg"],
+      "logo" : "https://i.ibb.co/tzzwff7/cruchscreen0019.jpg",
+      "name" : "Bike Wallpapers"
+    }},
+    {"BrokenGlass" : {
+      "image" : [ null, "https://i.ibb.co/YLNy4hM/cruchscreen0036.jpg","https://i.ibb.co/cwXmphC/cruchscreen0037.jpg","https://i.ibb.co/cK5BqNH/cruchscreen0038.jpg",
+                        "https://i.ibb.co/515cqdj/cruchscreen0039.jpg", "https://i.ibb.co/Dbcrjyt/cruchscreen0024.jpg","https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
+                       "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg",
+                       "https://i.ibb.co/v3VP3rm/cruchscreen0015.jpg"],
+      "logo" : "https://i.ibb.co/jb46fHG/cruchscreen0030.jpg",
+      "name" : "Nature Wallpapers"
+    }}
+  ],
+  "LatestWallpapers" : [ null, "https://i.ibb.co/qRvZpZM/cruchscreen0001.jpg","https://i.ibb.co/jV1f8K0/cruchscreen0002.jpg",
+                        "https://i.ibb.co/DY7g6ZD/cruchscreen0003.jpg","https://i.ibb.co/nBxLKf4/cruchscreen0004.jpg","https://i.ibb.co/qW6qLCQ/cruchscreen0005.jpg",
+                        "https://i.ibb.co/jz7pP6Z/cruchscreen0006.jpg","https://i.ibb.co/X4n7fK0/cruchscreen0007.jpg","https://i.ibb.co/PGZgtjw/cruchscreen0008.jpg",
+                       "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg","https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg","https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
+                       "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg",
+                       "https://i.ibb.co/v3VP3rm/cruchscreen0015.jpg","https://i.ibb.co/Fqr4wsj/cruchscreen0016.jpg","https://i.ibb.co/ns5xk3M/cruchscreen0017.jpg",
+                       "https://i.ibb.co/4PYbjFn/cruchscreen0018.jpg","https://i.ibb.co/tzzwff7/cruchscreen0019.jpg","https://i.ibb.co/JyFSkYS/cruchscreen0020.jpg",
+                       "https://i.ibb.co/wrY3Q2L/cruchscreen0021.jpg","https://i.ibb.co/gWjrWF2/cruchscreen0022.jpg","https://i.ibb.co/TgW9tzV/cruchscreen0023.jpg",
+                       "https://i.ibb.co/Dbcrjyt/cruchscreen0024.jpg","https://i.ibb.co/wBpMc4D/cruchscreen0025.jpg","https://i.ibb.co/Yt00MFj/cruchscreen0026.jpg",
+                       "https://i.ibb.co/ZL369sL/cruchscreen0027.jpg","https://i.ibb.co/kcNjWV0/cruchscreen0028.jpg","https://i.ibb.co/7VRjSVg/cruchscreen0029.jpg",
+                       "https://i.ibb.co/jb46fHG/cruchscreen0030.jpg","https://i.ibb.co/T07nCKg/cruchscreen0031.jpg","https://i.ibb.co/5n6SxKh/cruchscreen0032.jpg",
+                       "https://i.ibb.co/sVL2P5v/cruchscreen0033.jpg","https://i.ibb.co/Y2ZHMr0/cruchscreen0034.jpg","https://i.ibb.co/dQKNrBF/cruchscreen0035.jpg"],
+  "RandomWallpapers" : [ null, "https://i.ibb.co/YLNy4hM/cruchscreen0036.jpg","https://i.ibb.co/cwXmphC/cruchscreen0037.jpg","https://i.ibb.co/cK5BqNH/cruchscreen0038.jpg",
+                        "https://i.ibb.co/515cqdj/cruchscreen0039.jpg", "https://i.ibb.co/Dbcrjyt/cruchscreen0024.jpg","https://i.ibb.co/wBpMc4D/cruchscreen0025.jpg","https://i.ibb.co/Yt00MFj/cruchscreen0026.jpg"],
+  "TrendingWallpapers" : [ null, "https://i.ibb.co/4f8zXNd/cruchscreen0040.jpg","https://i.ibb.co/3kpjNXd/cruchscreen0041.jpg","https://i.ibb.co/LYyCRTv/cruchscreen0042.jpg",
+                         "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg","https://i.ibb.co/0ffCKQg/cruchscreen0013.jpg","https://i.ibb.co/3Sb1h3T/cruchscreen0014.jpg"],
+  
+  "Ads" : {
+    "admob_pub" : "pub-5240393107248548",
+    "admob_app_id" : "ca-app-pub-5240393107248548~5544168548",
+    "admob_banner" : "ca-app-pub-5240393107248548/2918005207",
+    "admob_inter" : "ca-app-pub-5240393107248548/5296471129",
+    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
+    "admob_AppOpen" : "ca-app-pub-5240393107248548/1137734262",
+    "Fan_inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  }
+}
