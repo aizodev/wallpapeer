@@ -1,42 +1,42 @@
 {
   "Categories" : [
     {"animalphoto" : {
-      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg","https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/hLhWN16/42.png",
-
-"https://i.ibb.co/hLhWN16/42.png", "https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/hLhWN16/42.png"
-,"https://i.ibb.co/Tr6TC6k/40.png","https://i.ibb.co/hLhWN16/42.png","https://i.ibb.co/wLg9V6W/41.png","https://i.ibb.co/x2T4nwr/38.png"],
-      "logo" : "https://i.ibb.co/x2T4nwr/38.png",
+      "image" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg"],
+      "logo" : "https://i.ibb.co/wcQh4Cn/black0033.jpg",
       "name" : "Animal Wallpapers"
     }},
     {"bikephoto" : {
-      "image" : [ null, "https://i.ibb.co/yfPVQ1h/42.jpg","https://i.ibb.co/PDtQGTm/40.jpg","https://i.ibb.co/mB2JNYp/29.jpg","https://i.ibb.co/nzBDpPB/21.jpg"
-,"https://i.ibb.co/xz1K8wy/4.jpg","https://i.ibb.co/xz1K8wy/4.jpg","https://i.ibb.co/1G3zvBm/1.jpg"],
-      "logo" : "https://i.ibb.co/yfPVQ1h/42.jpg",
+      "image" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg"],
+      "logo" : "https://i.ibb.co/wcQh4Cn/black0033.jpg",
       "name" : "Bike Wallpapers"
     }},
     {"carsphoto" : {
-      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
-      "logo" : "https://i.ibb.co/TYJZ1MF/test-img.jpg",
+      "image" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg"],
+      "logo" : "https://i.ibb.co/wcQh4Cn/black0033.jpg",
       "name" : "Bike Wallpapers"
     }},
     {"naturephoto" : {
-      "image" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
-      "logo" : "https://i.ibb.co/TYJZ1MF/test-img.jpg",
+      "image" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg"],
+      "logo" : "https://i.ibb.co/wcQh4Cn/black0033.jpg",
       "name" : "Nature Wallpapers"
     }}
   ],
-  "LatestWallpapers" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
-  "RandomWallpapers" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg"],
-  "TrendingWallpapers" : [ null, "https://i.ibb.co/TYJZ1MF/test-img.jpg" ],
+  "LatestWallpapers" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg"],
+  "RandomWallpapers" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg"],
+  "TrendingWallpapers" : [ null, "https://i.ibb.co/wcQh4Cn/black0033.jpg" ],
   
   "Ads" : {
+    "Fan_inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    
     "admob_pub" : "pub-3940256099942544",
     "admob_app_id" : "ca-app-pub-3940256099942544~3347511713",
     "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
     "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-    "admob_reward" : "ca-app-pub-3940256099942544/5224354917",
     "admob_AppOpen" : "ca-app-pub-3940256099942544/3419835294",
-    "Fan_inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    
+    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_reward" : "ca-app-pub-3940256099942544/5224354917"
+    
+    
   }
 }
