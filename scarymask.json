@@ -241,11 +241,11 @@
   "Ads" : {
     "Fan_inter" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     
-    "admob_pub" : "pub-3940256099942544",
-    "admob_app_id" : "ca-app-pub-3940256099942544~3347511713",
-    "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-    "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-    "admob_AppOpen" : "ca-app-pub-3940256099942544/3419835294",
+    "admob_pub" : "pub-5240393107248548",
+    "admob_app_id" : "ca-app-pub-5240393107248548~8441588105",
+    "admob_banner" : "ca-app-pub-5240393107248548/4598793431",
+    "admob_inter" : "ca-app-pub-5240393107248548/1972630094",
+    "admob_AppOpen" : "ca-app-pub-5240393107248548/9659548421",
     
     "admob_native" : "",
     "admob_reward" : "",
