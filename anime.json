@@ -1,14 +1,14 @@
 {
   "Categories" : [
     {"animephoto" : {
-      "image" : [ null, ],
+      "image" : [  ],
       "logo" : "https://i.ibb.co/QDJ7YZK/anime001.jpg",
       "name" : "Category Wallpapers 1"
     }}
     ],
-  "LatestWallpapers" : [ null,  ],
-  "RandomWallpapers" : [ null,  ],
-  "TrendingWallpapers" : [ null,  ],
+  "LatestWallpapers" : [   ],
+  "RandomWallpapers" : [   ],
+  "TrendingWallpapers" : [ ],
   
   "Ads" : {
     "Fan_inter" : "1228208891071810_1228209411071758",
