@@ -1,7 +1,7 @@
 {
   "Categories" : [
     {"animephoto" : {
-      "image" : [  ],
+      "image" : [ null, https://i.ibb.co/QDJ7YZK/anime001.jpg ],
       "logo" : "https://i.ibb.co/QDJ7YZK/anime001.jpg",
       "name" : "Category Wallpapers 1"
     }}
