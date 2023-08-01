@@ -6,9 +6,9 @@
       "name" : "Category Wallpapers 1"
     }}
     ],
-  "LatestWallpapers" : [  "https://i.ibb.co/QDJ7YZK/anime001.jpg" ],
-  "RandomWallpapers" : [ "https://i.ibb.co/QDJ7YZK/anime001.jpg" ],
-  "TrendingWallpapers" : ["https://i.ibb.co/QDJ7YZK/anime001.jpg" ],
+  "LatestWallpapers" : [ null, "https://i.ibb.co/QDJ7YZK/anime001.jpg" ],
+  "RandomWallpapers" : [ null, "https://i.ibb.co/QDJ7YZK/anime001.jpg" ],
+  "TrendingWallpapers" : [ null, "https://i.ibb.co/QDJ7YZK/anime001.jpg" ],
   
   "Ads" : {
     "Fan_inter" : "1228208891071810_1228209411071758",
