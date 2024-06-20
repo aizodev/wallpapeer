@@ -1,28 +1,27 @@
 {
   "Categories" : [
     {"animalphoto" : {
-      "image" : [ null, "https://i.ibb.co/dm8TMm9/marvel0009.jpg",
-      "https://i.ibb.co/KKvvb7C/marvel0011.jpg",
-      "https://i.ibb.co/Wssfwkh/marvel0055.jpg",
-      "https://i.ibb.co/vjHWYXj/marvel0053.jpg"],
-      "logo" : "https://i.ibb.co/dm8TMm9/marvel0009.jpg",
-      "name" : "Snap Wallpapers"
+      "image" : [ null, "https://i.ibb.co/4439kCc/sumgif01.gif",
+"https://i.ibb.co/hRbWYtX/sumgif02.gif",
+"https://i.ibb.co/pJf0FbP/sumgif03.gif",
+"https://i.ibb.co/41yYwwj/sumgif04.gif",
+],
+      "logo" : "https://i.ibb.co/4439kCc/sumgif01.gif",
+      "name" : "Summer Wallpapers"
     }}
   ],
-  "LatestWallpapers" : [ null,"https://i.ibb.co/YTYhtd6/marvel0010.jpg",
-  "https://i.ibb.co/MC4hLJr/marvel0006.jpg",
-  "https://i.ibb.co/w6zrfCL/marvel0038.jpg",
-  "https://i.ibb.co/S0q92Lw/marvel0050.jpg"],
-  "RandomWallpapers" : [ null,"https://i.ibb.co/1dm7RMg/marvel0049.jpg",
-"https://i.ibb.co/gjtfv0k/marvel0025.jpg",
-"https://i.ibb.co/w6BJfpw/marvel0015.jpg",
-"https://i.ibb.co/tYsgM3t/marvel0005.jpg"
+  "LatestWallpapers" : [ null,"https://i.ibb.co/PMgFqDm/sumgif06.gif",
+"https://i.ibb.co/87btHBh/sumgif07.gif",
+"https://i.ibb.co/M5qvgtz/sumgif08.gif",
+"https://i.ibb.co/LSnmnMr/sumgif09.gif"],
+  "RandomWallpapers" : [ null, "https://i.ibb.co/5jRcYRF/sumgif10.gif",
+"https://i.ibb.co/Mp85745/sumgif11.gif",
+"https://i.ibb.co/C7462Yt/sumgif12.gif",
+"https://i.ibb.co/f9nfRk0/sumgif13.gif"
  ],
   "TrendingWallpapers" : [ null,
-"https://i.ibb.co/rxwvDr3/marvel0037.jpg",
-"https://i.ibb.co/vP2syxH/marvel0030.jpg",
-"https://i.ibb.co/zJy7m75/marvel0031.jpg",
-"https://i.ibb.co/pLC6Ty2/marvel0016.jpg" ],
+"https://i.ibb.co/fGzYGvv/sumgif14.gif",
+"https://i.ibb.co/vYW415K/sumgif05.gif" ],
   
   "Ads" : {
     "Fan_inter" : "506855368036616_506856118036541",
