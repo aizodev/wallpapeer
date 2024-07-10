@@ -1,7 +1,8 @@
 {
   "Categories" : [
     {"animalphoto" : {
-      "image" : [ null,  "https://i.ibb.co/v3SHGFD/newyear0001.jpg",
+      "image" : [ null,
+"https://i.ibb.co/v3SHGFD/newyear0001.jpg",
 "https://i.ibb.co/SxqrN1w/newyear0002.jpg",
 "https://i.ibb.co/mRrC5zh/newyear0003.jpg",
 "https://i.ibb.co/Thhm028/newyear0004.jpg",
@@ -11,58 +12,52 @@
       "name" : "Categorie Wallpapers 1"
     }},
     {"bikephoto" : {
-      "image" : [ null, 
+      "image" : [ null,
 "https://i.ibb.co/Vgj5XzP/newyear0009.jpg",
 "https://i.ibb.co/9gvrj5f/newyear0010.jpg",
 "https://i.ibb.co/FK5HDTY/newyear0011.jpg",
 "https://i.ibb.co/mhZMBLM/newyear0012.jpg",
 "https://i.ibb.co/9gGX9GC/newyear0013.jpg",
-"https://i.ibb.co/KyBC6bp/newyear0014.jpg"
-],
+"https://i.ibb.co/KyBC6bp/newyear0014.jpg"],
       "logo" : "https://i.ibb.co/FK5HDTY/newyear0011.jpg",
       "name" : "Categorie Wallpapers 2"
     }},
     {"carsphoto" : {
-      "image" : [ null,"https://i.ibb.co/qg5rL8W/newyear0015.jpg",
+      "image" : [ null,
+"https://i.ibb.co/qg5rL8W/newyear0015.jpg",
 "https://i.ibb.co/1Q59mXC/newyear0016.jpg",
 "https://i.ibb.co/n0ZcBBk/newyear0017.jpg",
 "https://i.ibb.co/njdNfxq/newyear0018.jpg",
-"https://i.ibb.co/PZcQsLd/newyear0019.jpg" ],
+"https://i.ibb.co/PZcQsLd/newyear0019.jpg"],
       "logo" : "https://i.ibb.co/PZcQsLd/newyear0019.jpg",
       "name" : "Categorie Wallpapers 3"
     }}
   ],
-  "LatestWallpapers" : [ null, 
+  "LatestWallpapers" : [ null,
 "https://i.ibb.co/qCx5ndw/newyear0021.jpg",
 "https://i.ibb.co/GMYXvVc/newyear0022.jpg",
 "https://i.ibb.co/VTkWsMH/newyear0023.jpg",
 "https://i.ibb.co/Z2916H9/newyear0024.jpg",
 "https://i.ibb.co/kHRJWy5/newyear0025.jpg",
-"https://i.ibb.co/St6TtpT/newyear0026.jpg"
-],
-  "RandomWallpapers" : [ null, "https://i.ibb.co/p3K3rhT/newyear0007.jpg",
+"https://i.ibb.co/St6TtpT/newyear0026.jpg"],
+  "RandomWallpapers" : [ null,
+"https://i.ibb.co/p3K3rhT/newyear0007.jpg",
 "https://i.ibb.co/4gg8wrP/newyear0008.jpg"],
   "TrendingWallpapers" : [ null, 
 "https://i.ibb.co/Dbn4t9W/newyear0027.jpg",
 "https://i.ibb.co/b7fZjw9/newyear0028.jpg",
 "https://i.ibb.co/pXzKd3z/newyear0029.jpg",
-"https://i.ibb.co/NZd6H3F/newyear0020.jpg"
-],
+"https://i.ibb.co/NZd6H3F/newyear0020.jpg"],
   
   "Ads" : {
     "Fan_inter" : "1478609899328284_1478610475994893",
-    
-    "admob_pub"     :    "pub-5240393107248548",
+    "admob_pub"     : "pub-5240393107248548",
     "admob_app_id"  : "ca-app-pub-5240393107248548~5829724482",
     "admob_banner"  : "ca-app-pub-5240393107248548/1164393613",
-    "admob_inter"   :  "ca-app-pub-5240393107248548/5534883467",
+    "admob_inter"   : "ca-app-pub-5240393107248548/5534883467",
     "admob_AppOpen" : "ca-app-pub-5240393107248548/4030230101",
-    
     "ONESIGNAL_APP_ID" : "d5dbaf4c-862e-4596-8b8e-ed1a5611386d",
-    
     "admob_native" : "",
-    "admob_reward" : ""
-    
-    
+    "admob_reward" : ""   
   }
 }
