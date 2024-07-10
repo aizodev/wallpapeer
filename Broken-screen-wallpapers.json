@@ -18,7 +18,7 @@
     "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg",
     "https://i.ibb.co/rcx6Mb0/cruchscreen0010.jpg",
     "https://i.ibb.co/cbfXZ24/cruchscreen0011.jpg",
-    "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg" ],
+    "https://i.ibb.co/YRSbHym/cruchscreen0012.jpg"],
       "logo" : "https://i.ibb.co/Z8M7kSW/cruchscreen0009.jpg",
       "name" : "PrankLockScreen Wallpapers"
     }},
@@ -55,29 +55,25 @@
     "https://i.ibb.co/T07nCKg/cruchscreen0031.jpg",
     "https://i.ibb.co/5n6SxKh/cruchscreen0032.jpg",
     "https://i.ibb.co/sVL2P5v/cruchscreen0033.jpg",
-    "https://i.ibb.co/Y2ZHMr0/cruchscreen0034.jpg"
-    ],
+    "https://i.ibb.co/Y2ZHMr0/cruchscreen0034.jpg"],
   
-  "RandomWallpapers" : [ null, 
+  "RandomWallpapers" : [ null,
     "https://i.ibb.co/dQKNrBF/cruchscreen0035.jpg",
     "https://i.ibb.co/YLNy4hM/cruchscreen0036.jpg",
     "https://i.ibb.co/cwXmphC/cruchscreen0037.jpg",
-    "https://i.ibb.co/cK5BqNH/cruchscreen0038.jpg"
-    ],
+    "https://i.ibb.co/cK5BqNH/cruchscreen0038.jpg"],
   
-  "TrendingWallpapers" : [ null, 
+  "TrendingWallpapers" : [ null,
     "https://i.ibb.co/515cqdj/cruchscreen0039.jpg",
     "https://i.ibb.co/4f8zXNd/cruchscreen0040.jpg",
     "https://i.ibb.co/3kpjNXd/cruchscreen0041.jpg",
-    "https://i.ibb.co/LYyCRTv/cruchscreen0042.jpg"
-    ],
+    "https://i.ibb.co/LYyCRTv/cruchscreen0042.jpg"],
   
   "Ads" : {
     "admob_pub" : "pub-5240393107248548",
     "admob_app_id" : "ca-app-pub-5240393107248548~5544168548",
     "admob_banner" : "ca-app-pub-5240393107248548/2918005207",
     "admob_inter" : "ca-app-pub-5240393107248548/5296471129",
-    
     "admob_native" : "",
     "admob_reward" : "",
     "admob_AppOpen" : "ca-app-pub-5240393107248548/1137734262",
