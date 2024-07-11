@@ -51,11 +51,11 @@
   
   "Ads" : {
     "Fan_inter" : "1478609899328284_1478610475994893",
-    "admob_pub"     : "pub-5240393107248548",
-    "admob_app_id"  : "ca-app-pub-5240393107248548~5829724482",
-    "admob_banner"  : "ca-app-pub-5240393107248548/1164393613",
-    "admob_inter"   : "ca-app-pub-5240393107248548/5534883467",
-    "admob_AppOpen" : "ca-app-pub-5240393107248548/4030230101",
+    "admob_pub"     : "pub-2367443063095809",
+    "admob_app_id"  : "ca-app-pub-2367443063095809~8909831933",
+    "admob_banner"  : "ca-app-pub-2367443063095809/9167469348",
+    "admob_inter"   : "ca-app-pub-2367443063095809/8296089424",
+    "admob_AppOpen" : "ca-app-pub-2367443063095809/8694209518",
     "ONESIGNAL_APP_ID" : "d5dbaf4c-862e-4596-8b8e-ed1a5611386d",
     "admob_native" : "",
     "admob_reward" : ""   
