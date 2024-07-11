@@ -1,7 +1,8 @@
 {
   "Categories" : [
     {"animalphoto" : {
-      "image" : [ null, "https://i.ibb.co/XCJ3Nrh/islamic0001.jpg",
+      "image" : [ null,
+"https://i.ibb.co/XCJ3Nrh/islamic0001.jpg",
 "https://i.ibb.co/Jz5cRKB/islamic0002.jpg",
 "https://i.ibb.co/LSSMnbW/islamic0003.jpg",
 "https://i.ibb.co/q0MMFb5/islamic0004.jpg",
@@ -20,7 +21,7 @@
       "name" : "Category 1"
     }},
     {"bikephoto" : {
-      "image" : [ null, 
+      "image" : [ null,
 "https://i.ibb.co/SmbrNNj/islamic0016.jpg",
 "https://i.ibb.co/nzHPyBC/islamic0017.jpg",
 "https://i.ibb.co/1b4t5sS/islamic0018.jpg",
@@ -40,7 +41,7 @@
       "name" : "Category 2"
     }},
     {"carsphoto" : {
-      "image" : [ null, 
+      "image" : [ null,
 "https://i.ibb.co/pf5HpwG/islamic0031.jpg",
 "https://i.ibb.co/48G6D2k/islamic0032.jpg",
 "https://i.ibb.co/xF3wsbg/islamic0033.jpg",
@@ -60,7 +61,8 @@
       "name" : "Category 3"
     }},
     {"naturephoto" : {
-      "image" : [ null, "https://i.ibb.co/mFcpGPS/islamic0046.jpg",
+      "image" : [ null,
+"https://i.ibb.co/mFcpGPS/islamic0046.jpg",
 "https://i.ibb.co/vvCsMG2/islamic0047.jpg",
 "https://i.ibb.co/0qZp4Nm/islamic0048.jpg",
 "https://i.ibb.co/Kx2JTnY/islamic0049.jpg",
@@ -79,7 +81,7 @@
       "name" : "Category 4"
     }}
   ],
-  "LatestWallpapers" : [ null, 
+  "LatestWallpapers" : [ null,
 "https://i.ibb.co/PjYM2Cs/islamic0061.jpg",
 "https://i.ibb.co/fXBNDhv/islamic0062.jpg",
 "https://i.ibb.co/TRj2ChR/islamic0063.jpg",
@@ -100,7 +102,8 @@
 "https://i.ibb.co/yF2nyFB/islamic0078.jpg",
 "https://i.ibb.co/vd6pBmg/islamic0079.jpg",
 "https://i.ibb.co/dpvsNhz/islamic0080.jpg"],
-  "RandomWallpapers" : [ null, "https://i.ibb.co/tcZMsy1/islamic0081.jpg",
+  "RandomWallpapers" : [ null,
+"https://i.ibb.co/tcZMsy1/islamic0081.jpg",
 "https://i.ibb.co/JFchwxm/islamic0082.jpg",
 "https://i.ibb.co/XtymyBS/islamic0083.jpg",
 "https://i.ibb.co/yfQPR5K/islamic0084.jpg",
@@ -125,18 +128,13 @@
   
   "Ads" : {
     "Fan_inter" : "587665036441428_587665559774709",
-    
     "admob_pub" : "pub-2367443063095809",
     "admob_app_id" : "ca-app-pub-2367443063095809~8063654121",
     "admob_banner" : "ca-app-pub-2367443063095809/8146031712",
     "admob_inter" : "ca-app-pub-2367443063095809/5519868377",
     "admob_AppOpen" : "ca-app-pub-2367443063095809/2893705039",
-    
     "ONESIGNAL_APP_ID" : "24a34fbe-d649-4d23-bd93-2634ed541c02",
-    
     "admob_native" : "",
     "admob_reward" : ""
-    
-    
   }
 }
