@@ -1,7 +1,8 @@
 {
   "Categories" : [
     {"animalphoto" : {
-      "image" : [ null,"https://i.ibb.co/rs5VwKL/hijab0001.jpg",
+      "image" : [ null,
+"https://i.ibb.co/rs5VwKL/hijab0001.jpg",
 "https://i.ibb.co/cch96FS/hijab0002.jpg",
 "https://i.ibb.co/HBz2RwC/hijab0003.jpg",
 "https://i.ibb.co/F6T7tR7/hijab0004.jpg",
@@ -9,12 +10,13 @@
 "https://i.ibb.co/n3WxHN8/hijab0006.jpg",
 "https://i.ibb.co/2q3gz9j/hijab0007.jpg",
 "https://i.ibb.co/PWmkp1V/hijab0008.jpg",
-"https://i.ibb.co/1R4b5P2/hijab0009.jpg" ],
+"https://i.ibb.co/1R4b5P2/hijab0009.jpg"],
       "logo" : "https://i.ibb.co/5kFVsyy/hijab0024.jpg",
       "name" : "Category 1"
     }},
     {"bikephoto" : {
-      "image" : [ null,"https://i.ibb.co/ftGtQzX/hijab0010.jpg",
+      "image" : [ null,
+"https://i.ibb.co/ftGtQzX/hijab0010.jpg",
 "https://i.ibb.co/k5msZZH/hijab0011.jpg",
 "https://i.ibb.co/tQYdVgc/hijab0012.jpg",
 "https://i.ibb.co/KjXHm5g/hijab0013.jpg",
@@ -23,12 +25,13 @@
 "https://i.ibb.co/0fJhgwN/hijab0016.jpg",
 "https://i.ibb.co/FhvRVmR/hijab0017.jpg",
 "https://i.ibb.co/GJCHKdb/hijab0018.jpg",
-"https://i.ibb.co/xX0msZB/hijab0019.jpg" ],
+"https://i.ibb.co/xX0msZB/hijab0019.jpg"],
       "logo" : "https://i.ibb.co/rs5VwKL/hijab0001.jpg",
       "name" : "Category 2"
     }},
     {"carsphoto" : {
-      "image" : [ null,"https://i.ibb.co/BsHQr34/hijab0020.jpg",
+      "image" : [ null,
+"https://i.ibb.co/BsHQr34/hijab0020.jpg",
 "https://i.ibb.co/ZJ2rSB5/hijab0021.jpg",
 "https://i.ibb.co/ncd6GZ9/hijab0022.jpg",
 "https://i.ibb.co/PrTQVY8/hijab0023.jpg",
@@ -42,7 +45,7 @@
       "name" : "Category 3 "
     }}
   ],
-  "LatestWallpapers" : [ null, 
+  "LatestWallpapers" : [ null,
 "https://i.ibb.co/zmMYjMd/hijab0030.jpg",
 "https://i.ibb.co/X7W5QPn/hijab0031.jpg",
 "https://i.ibb.co/gzg7ZM3/hijab0032.jpg",
@@ -50,28 +53,24 @@
 "https://i.ibb.co/vX8YWTB/hijab0034.jpg",
 "https://i.ibb.co/CWFnmMX/hijab0035.jpg",
 "https://i.ibb.co/DfX14sK/hijab0036.jpg"],
-  "RandomWallpapers" : [ null, 
+  "RandomWallpapers" : [ null,
 "https://i.ibb.co/FxL8M2Y/hijab0041.jpg",
 "https://i.ibb.co/WVGLbVB/hijab0042.jpg"],
-  "TrendingWallpapers" : [ null, "https://i.ibb.co/XLzvBQy/hijab0037.jpg",
+  "TrendingWallpapers" : [ null,
+"https://i.ibb.co/XLzvBQy/hijab0037.jpg",
 "https://i.ibb.co/7WtRvWj/hijab0038.jpg",
 "https://i.ibb.co/zXH8fHb/hijab0039.jpg",
 "https://i.ibb.co/ZKZxLwd/hijab0040.jpg"],
   
   "Ads" : {
     "Fan_inter" : "439120701689673_439121301689613",
-    
     "admob_pub" : "pub-2367443063095809",
     "admob_app_id" : "ca-app-pub-2367443063095809~3469802993",
     "admob_banner" : "ca-app-pub-2367443063095809/2755153982",
     "admob_inter" : "ca-app-pub-2367443063095809/8530557986",
     "admob_AppOpen" : "ca-app-pub-2367443063095809/5082267569",
-    
     "ONESIGNAL_APP_ID" : "5e539e91-a23c-4d96-b14f-accf0064d7e7",
-    
     "admob_native" : "",
     "admob_reward" : ""
-    
-    
   }
 }
