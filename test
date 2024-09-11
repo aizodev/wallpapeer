@@ -1,0 +1,60 @@
+{
+  "Categories" : [
+    {"animalphoto" : {
+      "image" : [ null,"https://i.ibb.co/Pg3vRxM/darkify019.jpg",
+"https://i.ibb.co/GpBKjQt/darkify020.jpg",
+"https://i.ibb.co/D1mmDmN/darkify021.jpg",
+"https://i.ibb.co/6HVXBjd/darkify022.jpg"],
+      "logo" : "https://i.ibb.co/Pg3vRxM/darkify019.jpg",
+      "name" : "Darkify Wallpapers"
+    }},
+    {"bikephoto" : {
+      "image" : [ null,"https://i.ibb.co/2ZZF53n/darkify023.jpg",
+"https://i.ibb.co/GcDpGjF/darkify024.jpg",
+"https://i.ibb.co/MVk7rg7/darkify025.jpg",
+"https://i.ibb.co/7rnP57d/darkify026.jpg"],
+      "logo" : "https://i.ibb.co/2ZZF53n/darkify023.jpg",
+      "name" : "Black Wallpapers"
+    }},
+    {"carsphoto" : {
+      "image" : [ null,"https://i.ibb.co/Vpbn68F/darkify027.jpg",
+"https://i.ibb.co/0mVPDCY/darkify028.jpg",
+"https://i.ibb.co/8sSCsY5/darkify029.jpg",
+"https://i.ibb.co/9TLhngX/darkify030.jpg",
+"https://i.ibb.co/tDhrkdp/darkify031.jpg",
+"https://i.ibb.co/Lhxzsky/darkify032.jpg"],
+      "logo" : "https://i.ibb.co/Vpbn68F/darkify027.jpg",
+      "name" : "Dark Wallpapers"
+    }}
+  ],
+  "LatestWallpapers" : [ null,"https://i.ibb.co/3BK9g67/darkify001.jpg",
+"https://i.ibb.co/3v0Z1K0/darkify002.jpg",
+"https://i.ibb.co/mFJvVz9/darkify003.jpg",
+"https://i.ibb.co/J2GT9JG/darkify004.jpg",
+"https://i.ibb.co/WGDmQSx/darkify005.jpg",
+"https://i.ibb.co/JHLbXPM/darkify006.jpg"],
+  "RandomWallpapers" : [ null,"https://i.ibb.co/ZLCzpKX/darkify013.jpg",
+"https://i.ibb.co/F3qN0X5/darkify014.jpg",
+"https://i.ibb.co/LtTpfd5/darkify015.jpg",
+"https://i.ibb.co/3mk6sfV/darkify016.jpg",
+"https://i.ibb.co/QNCg4gh/darkify017.jpg",
+"https://i.ibb.co/3Bz2KSM/darkify018.jpg"],
+  "TrendingWallpapers" : [ null,"https://i.ibb.co/5nMYWj3/darkify007.jpg",
+"https://i.ibb.co/wMFmFC6/darkify008.jpg",
+"https://i.ibb.co/DLKnfsd/darkify009.jpg",
+"https://i.ibb.co/xh5QzqF/darkify010.jpg",
+"https://i.ibb.co/2WxfSjX/darkify011.jpg",
+"https://i.ibb.co/z79qnNk/darkify012.jpg"],
+  
+  "Ads" : {
+    "Fan_inter" : "1131328484161362_1131330444161166",
+    "admob_pub" : "pub-2367443063095809",
+    "admob_app_id" : "ca-app-pub-2367443063095809~3513400569",
+    "admob_banner" : "ca-app-pub-2367443063095809/2570761048",
+    "admob_inter" : "ca-app-pub-2367443063095809/6572713098",
+    "admob_AppOpen" : "ca-app-pub-2367443063095809/5259631420",
+    "ONESIGNAL_APP_ID" : "7bf3ef75-029d-4cae-bdaf-980076540454",
+    "admob_native" : "",
+    "admob_reward" : "" 
+  }
+}
