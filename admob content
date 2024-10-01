@@ -1,4 +1,3 @@
-
 {
   "Categories" : [
     {"BrokenScreen" : {
@@ -67,14 +66,7 @@
 "https://i.ibb.co/L6gQxLR/Broken-Screen059.jpg",
 "https://i.ibb.co/DtrDG5t/Broken-Screen060.jpg"],
    "Ads" : {
-    "admob_pub" : "pub-2367443063095809",
-    "admob_app_id" : "ca-app-pub-2367443063095809~7764271223",
-    "admob_banner" : "ca-app-pub-2367443063095809/5138107887",
-    "admob_inter" : "ca-app-pub-2367443063095809/5545301994",
     "admob_native" : "",
-    "admob_reward" : "",
-    "admob_AppOpen" : "ca-app-pub-2367443063095809/4725661459",
-    "Fan_inter" : "1279345019272162_1279345792605418",
-    "ONESIGNAL_APP_ID" : "cf5cb25d-4d33-44a2-a6b4-8659aa043d79"
+    "admob_reward" : ""
   }
 }
