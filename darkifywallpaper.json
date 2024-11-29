@@ -4,17 +4,12 @@
       "image" : [ null,"https://i.ibb.co/n7NCWkj/darkwall024.jpg",
 "https://i.ibb.co/gZQ5RQp/darkwall025.jpg",
 "https://i.ibb.co/wzdpFWD/darkwall026.jpg",
-"https://i.ibb.co/RzJ9tHm/darkwall027.jpg"],
+"https://i.ibb.co/RzJ9tHm/darkwall027.jpg",
+"https://i.ibb.co/87TYTsL/darkwall028.jpg",
+"https://i.ibb.co/Tvn5xJB/darkwall030.jpg",
+"https://i.ibb.co/3yxwVJm/darkwall031.jpg"],
       "logo" : "https://i.ibb.co/gZQ5RQp/darkwall025.jpg",
       "name" : "Darkify Wallpapers"
-    }},
-    {"bikephoto" : {
-      "image" : [ null,"https://i.ibb.co/87TYTsL/darkwall028.jpg",
-"https://i.ibb.co/Tvn5xJB/darkwall030.jpg",
-"https://i.ibb.co/3yxwVJm/darkwall031.jpg",
-"https://i.ibb.co/VVsTQcb/darkwall010.jpg"],
-      "logo" : "https://i.ibb.co/87TYTsL/darkwall028.jpg",
-      "name" : "Black Wallpapers"
     }}
   ],
   "LatestWallpapers" : [ null,"https://i.ibb.co/zPrZ0hR/darkwall001.jpg",
@@ -25,7 +20,8 @@
 "https://i.ibb.co/vQpYmw5/darkwall006.jpg",
 "https://i.ibb.co/DfMGvRp/darkwall007.jpg",
 "https://i.ibb.co/vZRw0hj/darkwall008.jpg",
-"https://i.ibb.co/tDScN63/darkwall009.jpg"],
+"https://i.ibb.co/tDScN63/darkwall009.jpg",
+"https://i.ibb.co/VVsTQcb/darkwall010.jpg"],
   "RandomWallpapers" : [ null,"https://i.ibb.co/hDzhnDN/darkwall018.jpg",
 "https://i.ibb.co/0QsLPv8/darkwall019.jpg",
 "https://i.ibb.co/0yYDyc6/darkwall020.jpg",
@@ -45,5 +41,5 @@
     "admob_inter" : "ca-app-pub-2367443063095809/6981656024",
     "admob_AppOpen" : "ca-app-pub-2367443063095809/6125918124",
     "ONESIGNAL_APP_ID" : "7bf3ef75-029d-4cae-bdaf-980076540454"
-  }
+ }
 }
