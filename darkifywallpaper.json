@@ -39,14 +39,11 @@
 "https://i.ibb.co/dMcFdYB/darkwall016.jpg",
 "https://i.ibb.co/9VGzp4y/darkwall017.jpg"],
   "Ads" : {
-    "Fan_inter" : "",
     "admob_pub" : "pub-2367443063095809",
     "admob_app_id" : "ca-app-pub-2367443063095809~3513400569",
     "admob_banner" : "ca-app-pub-2367443063095809/9493103449",
     "admob_inter" : "ca-app-pub-2367443063095809/6981656024",
     "admob_AppOpen" : "ca-app-pub-2367443063095809/6125918124",
-    "ONESIGNAL_APP_ID" : "7bf3ef75-029d-4cae-bdaf-980076540454",
-    "admob_native" : "",
-    "admob_reward" : "" 
+    "ONESIGNAL_APP_ID" : "7bf3ef75-029d-4cae-bdaf-980076540454"
   }
 }
