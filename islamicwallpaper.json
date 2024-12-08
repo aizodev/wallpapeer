@@ -1,0 +1,76 @@
+{
+  "Categories" : [
+    {"animalphoto" : {
+      "image" : [ null,"https://i.ibb.co/tcnMQM7/Islamicwall031.jpg",
+"https://i.ibb.co/W0JV51b/Islamicwall032.jpg",
+"https://i.ibb.co/RS2wwBZ/Islamicwall033.jpg",
+"https://i.ibb.co/Rb0KfmF/Islamicwall034.jpg",
+"https://i.ibb.co/HhrSgYR/Islamicwall035.jpg",
+"https://i.ibb.co/ts150Cp/Islamicwall036.jpg",
+"https://i.ibb.co/SXFrQkC/Islamicwall037.jpg",
+"https://i.ibb.co/hsvPCDK/Islamicwall038.jpg"],
+      "logo" : "https://i.ibb.co/tcnMQM7/Islamicwall031.jpg",
+      "name" : "Category 1"
+    }},
+    {"bikephoto" : {
+      "image" : [ null,"https://i.ibb.co/b3sXjJ4/Islamicwall039.jpg",
+"https://i.ibb.co/BzQGDBs/Islamicwall040.jpg",
+"https://i.ibb.co/Vp09Sqz/Islamicwall041.jpg",
+"https://i.ibb.co/n1rR0Ff/Islamicwall042.jpg",
+"https://i.ibb.co/f2YWJjd/Islamicwall043.jpg",
+"https://i.ibb.co/vj96NSc/Islamicwall044.jpg"],
+      "logo" : "https://i.ibb.co/b3sXjJ4/Islamicwall039.jpg",
+      "name" : "Category 2"
+    }},
+    {"carsphoto" : {
+      "image" : [ null,"https://i.ibb.co/YNjK4mb/Islamicwall045.jpg",
+"https://i.ibb.co/kG5GvP5/Islamicwall046.jpg",
+"https://i.ibb.co/z2wCYjW/Islamicwall047.jpg",
+"https://i.ibb.co/0fF8Nrc/Islamicwall048.jpg",
+"https://i.ibb.co/X2sH4qM/Islamicwall049.jpg",
+"https://i.ibb.co/drdvnpV/Islamicwall050.jpg"],
+      "logo" : "https://i.ibb.co/YNjK4mb/Islamicwall045.jpg",
+      "name" : "Category 3"
+    }}
+  ],
+  "LatestWallpapers" : [ null,"https://i.ibb.co/s1JGgLG/Islamicwall001.jpg",
+"https://i.ibb.co/sRKrVYk/Islamicwall002.jpg",
+"https://i.ibb.co/9v2JCft/Islamicwall003.jpg",
+"https://i.ibb.co/h2Bvbgz/Islamicwall004.jpg",
+"https://i.ibb.co/3YVDJpJ/Islamicwall005.jpg",
+"https://i.ibb.co/k0s8HF8/Islamicwall006.jpg",
+"https://i.ibb.co/rvw7hqG/Islamicwall007.jpg",
+"https://i.ibb.co/PWNG6V1/Islamicwall008.jpg",
+"https://i.ibb.co/DrsXLMv/Islamicwall009.jpg",
+"https://i.ibb.co/LgxM462/Islamicwall010.jpg"],
+  "RandomWallpapers" : [ null,"https://i.ibb.co/231cbBv/Islamicwall011.jpg",
+"https://i.ibb.co/G3qqS2J/Islamicwall012.jpg",
+"https://i.ibb.co/R3wjK78/Islamicwall013.jpg",
+"https://i.ibb.co/42LCLdJ/Islamicwall014.jpg",
+"https://i.ibb.co/k3W19NC/Islamicwall015.jpg",
+"https://i.ibb.co/R7zHzTD/Islamicwall016.jpg",
+"https://i.ibb.co/6DP2bjW/Islamicwall017.jpg",
+"https://i.ibb.co/6BZybLY/Islamicwall018.jpg",
+"https://i.ibb.co/wzbMfSB/Islamicwall019.jpg",
+"https://i.ibb.co/1bS2Ppv/Islamicwall020.jpg"],
+  "TrendingWallpapers" : [ null,"https://i.ibb.co/G9KhbJN/Islamicwall021.jpg",
+"https://i.ibb.co/9pNXn25/Islamicwall022.jpg",
+"https://i.ibb.co/k6DP6JT/Islamicwall023.jpg",
+"https://i.ibb.co/RYt4FnS/Islamicwall024.jpg",
+"https://i.ibb.co/BGyndy1/Islamicwall025.jpg",
+"https://i.ibb.co/PtHktVC/Islamicwall026.jpg",
+"https://i.ibb.co/0r6PB1G/Islamicwall027.jpg",
+"https://i.ibb.co/vD6rKBK/Islamicwall028.jpg",
+"https://i.ibb.co/0F1Hn9k/Islamicwall029.jpg",
+"https://i.ibb.co/Ny7hJ24/Islamicwall030.jpg"],
+  
+  "Ads" : {
+    "Fan_inter" : "587665036441428_587665559774709",
+    "admob_pub" : "pub-2367443063095809",
+    "admob_app_id" : "ca-app-pub-2367443063095809~8063654121",
+    "admob_banner" : "ca-app-pub-2367443063095809/1220451084",
+    "admob_inter" : "ca-app-pub-2367443063095809/2311306944",
+    "admob_AppOpen" : "ca-app-pub-2367443063095809/8907369417",
+    "ONESIGNAL_APP_ID" : "24a34fbe-d649-4d23-bd93-2634ed541c02"
+  }
+}
