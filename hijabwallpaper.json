@@ -1,1 +1,72 @@
-
+{
+  "Categories" : [
+    {"animalphoto" : {
+      "image" : [ null,"https://i.ibb.co/MfGDgT7/Hijab021.jpg",
+"https://i.ibb.co/HBkR7Rf/Hijab022.jpg",
+"https://i.ibb.co/2kdMW5r/Hijab023.jpg",
+"https://i.ibb.co/dQvGZcr/Hijab024.jpg",
+"https://i.ibb.co/VBbqV25/Hijab025.jpg",
+"https://i.ibb.co/XsXBwd3/Hijab026.jpg",
+"https://i.ibb.co/GxD6jp8/Hijab027.jpg",
+"https://i.ibb.co/7RptZhy/Hijab028.jpg"],
+      "logo" : "https://i.ibb.co/MfGDgT7/Hijab021.jpg",
+      "name" : "Category 1"
+    }},
+    {"bikephoto" : {
+      "image" : [ null,
+"https://i.ibb.co/KWfsF4T/Hijab029.jpg",
+"https://i.ibb.co/thGkPrs/Hijab030.jpg",
+"https://i.ibb.co/ssdvR9K/Hijab031.jpg",
+"https://i.ibb.co/4RwDvqX/Hijab032.jpg",
+"https://i.ibb.co/JW1n3Rw/Hijab033.jpg",
+"https://i.ibb.co/RQ0ypDt/Hijab034.jpg",
+"https://i.ibb.co/YWfpf8h/Hijab035.jpg"],
+      "logo" : "https://i.ibb.co/KWfsF4T/Hijab029.jpg",
+      "name" : "Category 2"
+    }},
+    {"carsphoto" : {
+      "image" : [ null,
+"https://i.ibb.co/n1GszHz/Hijab036.jpg",
+"https://i.ibb.co/sgrTJyj/Hijab037.jpg",
+"https://i.ibb.co/4t8MSBB/Hijab038.jpg",
+"https://i.ibb.co/C0KGjsf/Hijab039.jpg",
+"https://i.ibb.co/8Ny2mKn/Hijab040.jpg",
+"https://i.ibb.co/wNkDGGy/Hijab041.jpg",
+"https://i.ibb.co/Y7B9QTK/Hijab042.jpg"],
+      "logo" : "https://i.ibb.co/n1GszHz/Hijab036.jpg",
+      "name" : "Category 3 "
+    }}
+  ],
+  "LatestWallpapers" : [ null,"https://i.ibb.co/NYt0pqx/Hijab001.jpg",
+"https://i.ibb.co/dBBYN0P/Hijab002.jpg",
+"https://i.ibb.co/GQtYsWX/Hijab003.jpg",
+"https://i.ibb.co/QfRQz5B/Hijab004.jpg",
+"https://i.ibb.co/sQKm42f/Hijab005.jpg",
+"https://i.ibb.co/F35Xmrn/Hijab006.jpg",
+"https://i.ibb.co/nB3Mdrq/Hijab007.jpg",
+"https://i.ibb.co/Y3Vnwyj/Hijab008.jpg"],
+  "RandomWallpapers" : [ null,"https://i.ibb.co/JBVQts5/Hijab015.jpg",
+"https://i.ibb.co/gtbTWmn/Hijab016.jpg",
+"https://i.ibb.co/gD4QNvz/Hijab017.jpg",
+"https://i.ibb.co/pjGGmrv/Hijab018.jpg",
+"https://i.ibb.co/0qFHrmX/Hijab019.jpg",
+"https://i.ibb.co/2t0Pmfq/Hijab020.jpg"],
+  "TrendingWallpapers" : [ null,"https://i.ibb.co/P1jsCGK/Hijab009.jpg",
+"https://i.ibb.co/j4KWnZ3/Hijab010.jpg",
+"https://i.ibb.co/7GzWrFm/Hijab011.jpg",
+"https://i.ibb.co/rtL7wPW/Hijab012.jpg",
+"https://i.ibb.co/FzmvBvh/Hijab013.jpg",
+"https://i.ibb.co/pfCjHvh/Hijab014.jpg"],
+  
+  "Ads" : {
+    "Fan_inter" : "439120701689673_439121301689613",
+    "admob_pub" : "pub-2367443063095809",
+    "admob_app_id" : "ca-app-pub-2367443063095809~3469802993",
+    "admob_banner" : "ca-app-pub-2367443063095809/8138047370",
+    "admob_inter" : "ca-app-pub-2367443063095809/3375781068",
+    "admob_AppOpen" : "ca-app-pub-2367443063095809/2062699391",
+    "ONESIGNAL_APP_ID" : "5e539e91-a23c-4d96-b14f-accf0064d7e7",
+    "admob_native" : "",
+    "admob_reward" : ""
+  }
+}
